@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="picksImages">PicksImages</string>
+    <string name="send">Send</string>
+    <string name="image_description">Image Description</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
